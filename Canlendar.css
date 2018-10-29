@@ -1,0 +1,39 @@
+th {
+    background-color: rgb(123, 123, 111);
+    width: 50px;
+
+}
+td {
+    height: 40px;
+    border-style: dashed;
+    border-width: thick;
+    border-color: #a0a0a0;
+}
+table {
+    border-collapse: collapse;
+}
+caption {
+    color: #cc00cc;
+    text-transform: uppercase;
+
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 90;
+}
+
+.sundays{
+
+    color : #aa0000;
+
+}
+
+#bookmark{
+    text-align: center;
+}
+#img1 {
+    float: right;
+}
+
+#span1 {
+    display: block;
+    clear: left;
+}
